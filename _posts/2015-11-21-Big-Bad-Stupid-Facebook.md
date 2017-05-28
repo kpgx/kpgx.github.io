@@ -10,6 +10,3 @@ To check this vulnerability for yourself go to [Facebook account recovery page](
 Within the 10,000 numbers I checked, I found about 1,200 numbers are already entered in Facebook.(I checked all the numbers in a random 10,000 range) So it's just a matter of days to collect the mobile numbers of all users of a given network.
 
 Apparently this is a feature(not a bug) of Facebook which suppose to help the users to recover there user accounts. But because of the poorly implemented safety mechanisms an attacker can easily abuse this feature to map mobile numbers with user profiles and do a target attack on a specific person. For example this could easily pave the path for a successful Voice phishing attack - more effective because the computer user is not aware of the fact that his phone number may have ended up in the wrong hands. Just imagine that the crooks call your mobile and address you by your full name and back up their statements with information about you taken straight from your [Facebook] profile.
-
-
-<!-- <div align="center"><img src="{{ site.baseurl }}/assets/cat.png" style="width: 800px;"></div> -->

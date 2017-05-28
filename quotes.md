@@ -40,5 +40,5 @@ permalink: /quotes/
 * Among competing hypotheses, the one with the fewest assumptions should be selected.
 *-William of Ockham*
 
-*Perfect is the enemy of good*
+* Perfect is the enemy of good
 *-Anon*

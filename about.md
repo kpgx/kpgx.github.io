@@ -8,7 +8,9 @@ Software Engineer. Love trains, trees and dimples.
 
 ### More Information
 
-Software Engineer @ MillenniumIT Software (Pvt) Ltd. Read for B.Sc (Computer Science) in University of Colombo School of Computing and currently waiting for the final exam results.
+Software Engineer @ MillenniumIT Software (Pvt) Ltd.
+
+Holds BSc.(Hons) in Computer Science in University of Colombo School of Computing.
 
 ### Contact me
 
