@@ -1,8 +1,8 @@
 # Site settings
 title:       Kasun Gamlath
-email:       kasun.gamlath.x@gmail.com
+email:       kasun.gamlath.x[at]gmail.com
 author:      Kasun Gamlath
-description: "Undergraduate."
+description: "Software Engineer."
 baseurl:     ""
 url:         "https://kpgx.github.io"
 
@@ -22,10 +22,10 @@ show_post_footers:  false
 show_social_icons: true
 github_username: kpgx
 stackoverflow_id:
-twitter_username: kasungamlath
+twitter_username: 
 google_plus_id:
 linkedin_username: kasungamlath
-facebook_username: kpgxyz
+facebook_username: 
 angellist_username:
 bitcoin_url:
 paypal_url:

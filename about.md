@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Software Engineer. Love trains, trees and dimples.
+Software Engineer.
 
 ### More Information
 
