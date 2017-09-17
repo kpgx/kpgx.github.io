@@ -14,7 +14,7 @@ Holds BSc.(Hons) in Computer Science in University of Colombo School of Computin
 
 ### Hire me
 
-<a href="{{ site.baseurl }}/resume.pdf/" target="_blank">Resume</a>                                                                                                                           
+<a href="{{ site.baseurl }}/resume.pdf" target="_blank">Resume</a>                                                                                                                           
 
 ### Contact me
 
