@@ -10,8 +10,7 @@ Software Engineer.
 
 Software Engineer @ MillenniumIT Software (Pvt) Ltd.
 
-Holds BSc.(Hons) in Computer Science in University of Colombo School of Computing. Did a research on User Profiling. 
-<a href="{{ site.baseurl }}/thesis.pdf" target="_blank">Thesis</a> <a href="{{ site.baseurl }}/paper.pdf" target="_blank">Paper</a>
+Holds BSc.(Hons) in Computer Science in University of Colombo School of Computing.
 
 ### Hire me
 
