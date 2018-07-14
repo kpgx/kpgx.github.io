@@ -3,7 +3,7 @@ layout: post
 title: Beginning of a new era
 ---
 
-I started working on train buddy app when I was 3rd year undergraduate. I first released it somewhere in 2015 and did a blog post. Actually it's the first post in this blog. So in a way tain buddy is the reason for the inception of this blog. It was a wonderful feeling. Releasing an own work so whole world can see and use. This app made and great conversation topic in interviews. Because I could speak so much this app. I had so many plans, improvements, features for this app.
+I started working on train buddy app when I was 3rd year undergraduate. I first released it somewhere in 2015 and did a blog post. Actually it's the first post in this blog. So in a way tain buddy is the reason for the inception of this blog. It was a wonderful feeling. Releasing an own work so whole world can see and use. This app made and great conversation topic in interviews. Because I could speak so much about this app. I had so many plans, improvements, features for this app.
 
 It first released as an schedule app. My ultimate goal for this app is to monitor the train locations in real time. Plan was to get the train location from app users themselves. For that I needed an user base. First release was meant to get users. And it did that well too. I had about 1000 users in less than a year I think. Then I added the location tracking features to enable the Train Map. But it didn't go well, most probably I failed to engage users to use it. So it didn't work as I expected. Then I ended reading for the degree and started full time working. (I believe this app played a big part getting me my first job, because in the interview for most of time I did was discuss about this app) 
 
