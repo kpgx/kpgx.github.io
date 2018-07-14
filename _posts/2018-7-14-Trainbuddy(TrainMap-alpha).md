@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beginning of a new era
+title: Train Buddy - Beginning of a new era
 ---
 
 I started working on train buddy app when I was 3rd year undergraduate. I first released it somewhere in 2015 and did a blog post. Actually it's the first post in this blog. So in a way tain buddy is the reason for the inception of this blog. It was a wonderful feeling. Releasing an own work so whole world can see and use. This app made and great conversation topic in interviews. Because I could speak so much about this app. I had so many plans, improvements, features for this app.
