@@ -5,6 +5,6 @@ permalink: /little-india/
 description: "Little india gallery."
 
 photos:
-    set: little-india
+    set: little_india
     size: 4
 ---
