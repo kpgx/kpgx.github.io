@@ -1,10 +1,10 @@
 ---
 layout: photo_set
-title: Berlin
-permalink: /berlin/
-description: "An example photo gallery."
+title: Little India (singapore)
+permalink: /little-india/
+description: "Little india gallery."
 
 photos:
-    set: berlin
-    size: 3
+    set: little-india
+    size: 4
 ---
